@@ -30,7 +30,6 @@ class Exercise
             k++;
         }     
         return ziggurat;
-
     }
 
     static void ShowZiggurat(int[,] array)
